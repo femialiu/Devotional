@@ -8,6 +8,24 @@
 import UIKit
 
 class TodayViewController: UIViewController {
+    
+    let logoImage = UIImage()
+    let mainPicture = UIImage()
+    let titleLabel = UILabel()
+    let dateLabel = UILabel()
+    let scriptureSnippet = UILabel()
+    let referenceLabel = UILabel()
+    let bodyLabel = UILabel()
+    let photoQuote = UIImage()
+    let additionalStudy = UILabel()
+    let prayerPoints = UILabel()
+    let shareLabel = UILabel()
+    let donateButton = UIButton()
+    let facebookButton = UIButton()
+    let twitterButton = UIButton()
+    
+    
+    let bodyText = UILabel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,7 +35,61 @@ class TodayViewController: UIViewController {
         navigationController?.hidesBarsOnSwipe = true
 
         // Do any additional setup after loading the view.
+        
+        let data = DataLoader().devotionalData
+        
+        print(data)
+        
+//        bodyText.text = DataLoader().devotionalData
     }
+    
+    
+    
+    /*
+    
+    func readJSONFile(forName name: String) -> Data? {
+        do {
+            if let filePath = Bundle.main.path(forResource: name, ofType: "json") {
+                let fileUrl = URL(fileURLWithPath: filePath)
+                let data = try Data(contentsOf: fileUrl)
+                return data
+            }
+        } catch {
+            print("error: \(error)")
+        }
+        return nil
+    }
+    
+    
+    func parse(jsonData: Data) -> Devotionals? {
+        do {
+            let decodedData = try JSONDecoder().decode(Devotionals.self, from: jsonData)
+            return decodedData
+        } catch {
+            print("error: \(error)")
+        }
+        return nil
+    }
+    
+    
+    let jsonData = readJSONFile(forName: "dataFile")
+    
+    if let data = jsonData {
+        if let devotionalObj = parse(jsonData: data) {
+            print("Devotionals: \(devotionalObj.devotionals)")
+            p
+        }
+    }
+    
+        
+    */
+    
+    
+//    let formatter = DateFormatter()
+//    formatter.dateFormat = "EEE, d MMM, yyy"
+//    formatter.locale = Locale(identifier: "en_NG")
+//    formatter.timeZone = TimeZone(identifier: "Africa/Lagos")
+
     
 //    override init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
 //        super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
@@ -40,3 +112,10 @@ class TodayViewController: UIViewController {
     */
 
 }
+
+
+/*
+ display the devotional for each day - update all the labels and images and dates automatically each day
+ write function to display the devotional for each day and update daily
+ match each devotional to the day/date
+ */

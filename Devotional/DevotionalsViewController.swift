@@ -29,3 +29,11 @@ class DevotionalsViewController: UIViewController {
     */
 
 }
+
+
+/*
+ two horizontal scrolling collection views
+    - months - january - december
+    - categories
+ when you click on a collection view, you will see the items in it displayed in a list
+ */
