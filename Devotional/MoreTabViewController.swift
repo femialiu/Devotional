@@ -12,7 +12,7 @@ class MoreTabViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.backgroundColor = .systemMint
+        view.backgroundColor = .systemGray5
 
         // Do any additional setup after loading the view.
     }

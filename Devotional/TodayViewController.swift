@@ -11,11 +11,11 @@ class TodayViewController: UIViewController {
     
     let logoImage = UIImage()
     let mainPicture = UIImage()
-    let titleLabel = UILabel()
-    let dateLabel = UILabel()
-    let scriptureSnippet = UILabel()
-    let referenceLabel = UILabel()
-    let bodyLabel = UILabel()
+    let titleLabel = UILabel() // 1
+    let dateLabel = UILabel() // 2
+    let scriptureSnippet = UILabel() // 3
+    let referenceLabel = UILabel() // 4
+    let bodyLabel = UILabel() // 5
     let photoQuote = UIImage()
     let additionalStudy = UILabel()
     let prayerPoints = UILabel()
@@ -43,7 +43,9 @@ class TodayViewController: UIViewController {
 //        bodyText.text = DataLoader().devotionalData
     }
     
-    
+    func displayDevotionalForToday() {
+//        if Devotional().month ==
+    }
     
     /*
     
@@ -118,4 +120,17 @@ class TodayViewController: UIViewController {
  display the devotional for each day - update all the labels and images and dates automatically each day
  write function to display the devotional for each day and update daily
  match each devotional to the day/date
+ */
+
+/*
+ what do i want to happen on the today tab?
+ display the devotional for the day
+ match the date in the json file with the date for today and display the images, title, body, prayer point, verses, etc for the day
+ update automatically everyday - so if you check by 12 am every day it will be a new devotional displaying. the devotional for the day
+ 
+ 
+ working with the current date - date for today
+ working with date swift
+ working with current date with json file swift
+ 
  */
