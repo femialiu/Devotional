@@ -58,14 +58,14 @@ typealias Welcome = [WelcomeElement]
 */
 
 struct Devotional: Codable {
-    var month: String
+    var month: Int
     var devotionals: [Devotionals]
 }
 
 struct Devotionals: Codable {
     let image: String
     let title: String
-    let date: String
+    let day: Int
     let scriptureSnippet: String
     let scriptureReference: [String]
     let category: String

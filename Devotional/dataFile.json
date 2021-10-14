@@ -1,12 +1,12 @@
 
 [
 		{
-		"month": "january",
+		"month": 1,
 		"devotionals": [
 						{
 				"image": "1 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 January",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -18,7 +18,7 @@
 			{
 				"image": "2 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "2 January",
+				"day": 2,
 				"scriptureSnippet": "Then 2 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -30,7 +30,7 @@
 			{
 				"image": "3 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "3 January",
+				"day": 3,
 				"scriptureSnippet": "Then 3 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -42,7 +42,7 @@
 			{
 				"image": "4 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "4 January",
+				"day": 4,
 				"scriptureSnippet": "Then 4 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -54,7 +54,7 @@
 			{
 				"image": "5 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "5 January",
+				"day": 5,
 				"scriptureSnippet": "Then 5 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -66,7 +66,7 @@
 			{
 				"image": "6 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "6 January",
+				"day": 6,
 				"scriptureSnippet": "Then 6 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -78,7 +78,7 @@
 			{
 				"image": "7 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "7 January",
+				"day": 7,
 				"scriptureSnippet": "Then 7 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -90,7 +90,7 @@
 			{
 				"image": "8 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "8 January",
+				"day": 8,
 				"scriptureSnippet": "Then 8 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -102,7 +102,7 @@
 			{
 				"image": "9 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "9 January",
+				"day": 9,
 				"scriptureSnippet": "Then 9 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -114,7 +114,7 @@
 			{
 				"image": "10 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "10 January",
+				"day": 10,
 				"scriptureSnippet": "Then 10 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -126,7 +126,7 @@
 			{
 				"image": "11 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "11 January",
+				"day": 11,
 				"scriptureSnippet": "Then 11 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -138,7 +138,7 @@
 			{
 				"image": "12 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "12 January",
+				"day": 12,
 				"scriptureSnippet": "Then 12 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -150,7 +150,7 @@
 			{
 				"image": "13 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "13 January",
+				"day": 13,
 				"scriptureSnippet": "Then 13 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -162,7 +162,7 @@
 			{
 				"image": "14 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "14 January",
+				"day": 14,
 				"scriptureSnippet": "Then 14 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -174,7 +174,7 @@
 			{
 				"image": "15 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "15 January",
+				"day": 15,
 				"scriptureSnippet": "Then 15 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -186,7 +186,7 @@
 			{
 				"image": "16 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "16 January",
+				"day": 16,
 				"scriptureSnippet": "Then 16 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -198,7 +198,7 @@
 			{
 				"image": "17 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "17 January",
+				"day": 17,
 				"scriptureSnippet": "Then 17 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -210,7 +210,7 @@
 			{
 				"image": "18 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "18 January",
+				"day": 18,
 				"scriptureSnippet": "Then 18 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -222,7 +222,7 @@
 			{
 				"image": "19 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21st January",
+				"day": 19,
 				"scriptureSnippet": "Then 19 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -234,7 +234,7 @@
 			{
 				"image": "20 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "20 January",
+				"day": 20,
 				"scriptureSnippet": "Then 20 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -246,7 +246,7 @@
 			{
 				"image": "21 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 January",
+				"day": 21,
 				"scriptureSnippet": "Then 21 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -258,7 +258,7 @@
 			{
 				"image": "22 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "22 January",
+				"day": 22,
 				"scriptureSnippet": "Then 22 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -270,7 +270,7 @@
 			{
 				"image": "23 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "23 January",
+				"day": 23,
 				"scriptureSnippet": "Then 23 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -282,7 +282,7 @@
 			{
 				"image": "24 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "24 January",
+				"day": 24,
 				"scriptureSnippet": "Then 24 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -294,7 +294,7 @@
 			{
 				"image": "25 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "25 January",
+				"day": 25,
 				"scriptureSnippet": "Then 25 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -306,7 +306,7 @@
 			{
 				"image": "26 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "26 January",
+				"day": 26,
 				"scriptureSnippet": "Then 26 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -318,7 +318,7 @@
 			{
 				"image": "27 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "27 January",
+				"day": 27,
 				"scriptureSnippet": "Then 27 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -330,7 +330,7 @@
 			{
 				"image": "28 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "28 January",
+				"day": 28,
 				"scriptureSnippet": "Then 28 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -342,7 +342,7 @@
 			{
 				"image": "29 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "29 January",
+				"day": 29,
 				"scriptureSnippet": "Then 29 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -354,7 +354,7 @@
 			{
 				"image": "30 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "30 January",
+				"day": 30,
 				"scriptureSnippet": "Then 30 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -366,7 +366,7 @@
 			{
 				"image": "31 January",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "31 January",
+				"day": 31,
 				"scriptureSnippet": "Then 31 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -378,12 +378,12 @@
 		]
 	},
 	{
-		"month": "february",
+		"month": 2,
 		"devotionals": [
 			{
 				"image": "1 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 february",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -395,7 +395,7 @@
 			{
 				"image": "2 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "2 february",
+				"day": 2,
 				"scriptureSnippet": "Then 2 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -407,7 +407,7 @@
 			{
 				"image": "3 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "3 february",
+				"day": 3,
 				"scriptureSnippet": "Then 3 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -419,7 +419,7 @@
 			{
 				"image": "4 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "4 february",
+				"day": 4,
 				"scriptureSnippet": "Then 4 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -431,7 +431,7 @@
 			{
 				"image": "5 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "5 february",
+				"day": 5,
 				"scriptureSnippet": "Then 5 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -443,7 +443,7 @@
 			{
 				"image": "6 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "6 february",
+				"day": 6,
 				"scriptureSnippet": "Then 6 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -455,7 +455,7 @@
 			{
 				"image": "7 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "7 february",
+				"day": 7,
 				"scriptureSnippet": "Then 7 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -467,7 +467,7 @@
 			{
 				"image": "8 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "8 february",
+				"day": 8,
 				"scriptureSnippet": "Then 8 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -479,7 +479,7 @@
 			{
 				"image": "9 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "9 february",
+				"day": 9,
 				"scriptureSnippet": "Then 9 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -491,7 +491,7 @@
 			{
 				"image": "10 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "10 february",
+				"day": 10,
 				"scriptureSnippet": "Then 10 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -503,7 +503,7 @@
 			{
 				"image": "11 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "11 february",
+				"day": 11,
 				"scriptureSnippet": "Then 11 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -515,7 +515,7 @@
 			{
 				"image": "12 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "12 february",
+				"day": 12,
 				"scriptureSnippet": "Then 12 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -527,7 +527,7 @@
 			{
 				"image": "13 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "13 february",
+				"day": 13,
 				"scriptureSnippet": "Then 13 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -539,7 +539,7 @@
 			{
 				"image": "14 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "14 february",
+				"day": 14,
 				"scriptureSnippet": "Then 14 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -551,7 +551,7 @@
 			{
 				"image": "15 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "15 february",
+				"day": 15,
 				"scriptureSnippet": "Then 15 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -563,7 +563,7 @@
 			{
 				"image": "16 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "16 february",
+				"day": 16,
 				"scriptureSnippet": "Then 16 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -575,7 +575,7 @@
 			{
 				"image": "17 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "17 february",
+				"day": 17,
 				"scriptureSnippet": "Then 17 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -587,7 +587,7 @@
 			{
 				"image": "18 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "18 february",
+				"day": 18,
 				"scriptureSnippet": "Then 18 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -599,7 +599,7 @@
 			{
 				"image": "19 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21st february",
+				"day": 19,
 				"scriptureSnippet": "Then 19 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -611,7 +611,7 @@
 			{
 				"image": "20 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "20 february",
+				"day": 20,
 				"scriptureSnippet": "Then 20 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -623,7 +623,7 @@
 			{
 				"image": "21 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 february",
+				"day": 21,
 				"scriptureSnippet": "Then 21 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -635,7 +635,7 @@
 			{
 				"image": "22 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "22 february",
+				"day": 22,
 				"scriptureSnippet": "Then 22 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -647,7 +647,7 @@
 			{
 				"image": "23 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "23 february",
+				"day": 23,
 				"scriptureSnippet": "Then 23 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -659,7 +659,7 @@
 			{
 				"image": "24 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "24 february",
+				"day": 24,
 				"scriptureSnippet": "Then 24 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -671,7 +671,7 @@
 			{
 				"image": "25 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "25 february",
+				"day": 25,
 				"scriptureSnippet": "Then 25 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -683,7 +683,7 @@
 			{
 				"image": "26 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "26 february",
+				"day": 26,
 				"scriptureSnippet": "Then 26 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -695,7 +695,7 @@
 			{
 				"image": "27 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "27 february",
+				"day": 27,
 				"scriptureSnippet": "Then 27 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -707,7 +707,7 @@
 			{
 				"image": "28 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "28 february",
+				"day": 28,
 				"scriptureSnippet": "Then 28 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -719,7 +719,7 @@
 			{
 				"image": "29 february",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "29 february",
+				"day": 29,
 				"scriptureSnippet": "Then 29 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -731,12 +731,12 @@
 		]
 	},
 	{
-		"month": "march",
+		"month": 3,
 		"devotionals": [
 			{
 				"image": "1 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 march",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -748,7 +748,7 @@
 			{
 				"image": "2 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "2 march",
+				"day": 2,
 				"scriptureSnippet": "Then 2 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -760,7 +760,7 @@
 			{
 				"image": "3 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "3 march",
+				"day": 3,
 				"scriptureSnippet": "Then 3 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -772,7 +772,7 @@
 			{
 				"image": "4 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "4 march",
+				"day": 4,
 				"scriptureSnippet": "Then 4 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -784,7 +784,7 @@
 			{
 				"image": "5 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "5 march",
+				"day": 5,
 				"scriptureSnippet": "Then 5 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -796,7 +796,7 @@
 			{
 				"image": "6 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "6 march",
+				"day": 6,
 				"scriptureSnippet": "Then 6 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -808,7 +808,7 @@
 			{
 				"image": "7 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "7 march",
+				"day": 7,
 				"scriptureSnippet": "Then 7 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -820,7 +820,7 @@
 			{
 				"image": "8 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "8 march",
+				"day": 8,
 				"scriptureSnippet": "Then 8 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -832,7 +832,7 @@
 			{
 				"image": "9 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "9 march",
+				"day": 9,
 				"scriptureSnippet": "Then 9 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -844,7 +844,7 @@
 			{
 				"image": "10 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "10 march",
+				"day": 10,
 				"scriptureSnippet": "Then 10 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -856,7 +856,7 @@
 			{
 				"image": "11 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "11 march",
+				"day": 11,
 				"scriptureSnippet": "Then 11 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -868,7 +868,7 @@
 			{
 				"image": "12 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "12 march",
+				"day": 12,
 				"scriptureSnippet": "Then 12 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -880,7 +880,7 @@
 			{
 				"image": "13 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "13 march",
+				"day": 13,
 				"scriptureSnippet": "Then 13 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -892,7 +892,7 @@
 			{
 				"image": "14 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "14 march",
+				"day": 14,
 				"scriptureSnippet": "Then 14 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -904,7 +904,7 @@
 			{
 				"image": "15 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "15 march",
+				"day": 15,
 				"scriptureSnippet": "Then 15 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -916,7 +916,7 @@
 			{
 				"image": "16 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "16 march",
+				"day": 16,
 				"scriptureSnippet": "Then 16 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -928,7 +928,7 @@
 			{
 				"image": "17 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "17 march",
+				"day": 17,
 				"scriptureSnippet": "Then 17 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -940,7 +940,7 @@
 			{
 				"image": "18 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "18 march",
+				"day": 18,
 				"scriptureSnippet": "Then 18 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -952,7 +952,7 @@
 			{
 				"image": "19 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 march",
+				"day": 19,
 				"scriptureSnippet": "Then 19 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -964,7 +964,7 @@
 			{
 				"image": "20 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "20 march",
+				"day": 20,
 				"scriptureSnippet": "Then 20 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -976,7 +976,7 @@
 			{
 				"image": "21 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 march",
+				"day": 21,
 				"scriptureSnippet": "Then 21 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -988,7 +988,7 @@
 			{
 				"image": "22 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "22 march",
+				"day": 22,
 				"scriptureSnippet": "Then 22 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1000,7 +1000,7 @@
 			{
 				"image": "23 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "23 march",
+				"day": 23,
 				"scriptureSnippet": "Then 23 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1012,7 +1012,7 @@
 			{
 				"image": "24 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "24 march",
+				"day": 24,
 				"scriptureSnippet": "Then 24 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1024,7 +1024,7 @@
 			{
 				"image": "25 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "25 march",
+				"day": 25,
 				"scriptureSnippet": "Then 25 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1036,7 +1036,7 @@
 			{
 				"image": "26 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "26 march",
+				"day": 26,
 				"scriptureSnippet": "Then 26 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1048,7 +1048,7 @@
 			{
 				"image": "27 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "27 march",
+				"day": 27,
 				"scriptureSnippet": "Then 27 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1060,7 +1060,7 @@
 			{
 				"image": "28 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "28 march",
+				"day": 28,
 				"scriptureSnippet": "Then 28 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1072,7 +1072,7 @@
 			{
 				"image": "29 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "29 march",
+				"day": 29,
 				"scriptureSnippet": "Then 29 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1084,7 +1084,7 @@
 			{
 				"image": "30 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "30 march",
+				"day": 30,
 				"scriptureSnippet": "Then 30 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1096,7 +1096,7 @@
 			{
 				"image": "31 march",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "31 march",
+				"day": 31,
 				"scriptureSnippet": "Then 31 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1108,12 +1108,12 @@
 		]
 	},
 	{
-		"month": "april",
+		"month": 4,
 		"devotionals": [
 			{
 				"image": "1 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 april",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1125,7 +1125,7 @@
 			{
 				"image": "2 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "2 april",
+				"day": 2,
 				"scriptureSnippet": "Then 2 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1137,7 +1137,7 @@
 			{
 				"image": "3 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "3 april",
+				"day": 3,
 				"scriptureSnippet": "Then 3 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1149,7 +1149,7 @@
 			{
 				"image": "4 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "4 april",
+				"day": 4,
 				"scriptureSnippet": "Then 4 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1161,7 +1161,7 @@
 			{
 				"image": "5 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "5 april",
+				"day": 5,
 				"scriptureSnippet": "Then 5 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1173,7 +1173,7 @@
 			{
 				"image": "6 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "6 april",
+				"day": 6,
 				"scriptureSnippet": "Then 6 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1185,7 +1185,7 @@
 			{
 				"image": "7 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "7 april",
+				"day": 7,
 				"scriptureSnippet": "Then 7 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -1197,7 +1197,7 @@
 			{
 				"image": "8 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "8 april",
+				"day": 8,
 				"scriptureSnippet": "Then 8 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1209,7 +1209,7 @@
 			{
 				"image": "9 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "9 april",
+				"day": 9,
 				"scriptureSnippet": "Then 9 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1221,7 +1221,7 @@
 			{
 				"image": "10 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "10 april",
+				"day": 10,
 				"scriptureSnippet": "Then 10 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1233,7 +1233,7 @@
 			{
 				"image": "11 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "11 april",
+				"day": 11,
 				"scriptureSnippet": "Then 11 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1245,7 +1245,7 @@
 			{
 				"image": "12 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "12 april",
+				"day": 12,
 				"scriptureSnippet": "Then 12 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1257,7 +1257,7 @@
 			{
 				"image": "13 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "13 april",
+				"day": 13,
 				"scriptureSnippet": "Then 13 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1269,7 +1269,7 @@
 			{
 				"image": "14 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "14 april",
+				"day": 14,
 				"scriptureSnippet": "Then 14 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1281,7 +1281,7 @@
 			{
 				"image": "15 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "15 april",
+				"day": 15,
 				"scriptureSnippet": "Then 15 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -1293,7 +1293,7 @@
 			{
 				"image": "16 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "16 april",
+				"day": 16,
 				"scriptureSnippet": "Then 16 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1305,7 +1305,7 @@
 			{
 				"image": "17 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "17 april",
+				"day": 17,
 				"scriptureSnippet": "Then 17 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1317,7 +1317,7 @@
 			{
 				"image": "18 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "18 april",
+				"day": 18,
 				"scriptureSnippet": "Then 18 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1329,7 +1329,7 @@
 			{
 				"image": "19 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21st april",
+				"day": 19,
 				"scriptureSnippet": "Then 19 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1341,7 +1341,7 @@
 			{
 				"image": "20 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "20 april",
+				"day": 20,
 				"scriptureSnippet": "Then 20 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1353,7 +1353,7 @@
 			{
 				"image": "21 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 april",
+				"day": 21,
 				"scriptureSnippet": "Then 21 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1365,7 +1365,7 @@
 			{
 				"image": "22 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "22 april",
+				"day": 22,
 				"scriptureSnippet": "Then 22 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1377,7 +1377,7 @@
 			{
 				"image": "23 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "23 april",
+				"day": 23,
 				"scriptureSnippet": "Then 23 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1389,7 +1389,7 @@
 			{
 				"image": "24 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "24 april",
+				"day": 24,
 				"scriptureSnippet": "Then 24 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1401,7 +1401,7 @@
 			{
 				"image": "25 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "25 april",
+				"day": 25,
 				"scriptureSnippet": "Then 25 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1413,7 +1413,7 @@
 			{
 				"image": "26 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "26 april",
+				"day": 26,
 				"scriptureSnippet": "Then 26 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1425,7 +1425,7 @@
 			{
 				"image": "27 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "27 april",
+				"day": 27,
 				"scriptureSnippet": "Then 27 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1437,7 +1437,7 @@
 			{
 				"image": "28 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "28 april",
+				"day": 28,
 				"scriptureSnippet": "Then 28 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1449,7 +1449,7 @@
 			{
 				"image": "29 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "29 april",
+				"day": 29,
 				"scriptureSnippet": "Then 29 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1461,7 +1461,7 @@
 			{
 				"image": "30 april",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "30 april",
+				"day": 30,
 				"scriptureSnippet": "Then 30 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1473,12 +1473,12 @@
 		]
 	},
 	{
-		"month": "may",
+		"month": 5,
 		"devotionals": [
 			{
 				"image": "1 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 may",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1490,7 +1490,7 @@
 			{
 				"image": "2 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "2 may",
+				"day": 2,
 				"scriptureSnippet": "Then 2 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1502,7 +1502,7 @@
 			{
 				"image": "3 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "3 may",
+				"day": 3,
 				"scriptureSnippet": "Then 3 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1514,7 +1514,7 @@
 			{
 				"image": "4 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "4 may",
+				"day": 4,
 				"scriptureSnippet": "Then 4 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1526,7 +1526,7 @@
 			{
 				"image": "5 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "5 may",
+				"day": 5,
 				"scriptureSnippet": "Then 5 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1538,7 +1538,7 @@
 			{
 				"image": "6 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "6 may",
+				"day": 6,
 				"scriptureSnippet": "Then 6 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1550,7 +1550,7 @@
 			{
 				"image": "7 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "7 may",
+				"day": 7,
 				"scriptureSnippet": "Then 7 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -1562,7 +1562,7 @@
 			{
 				"image": "8 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "8 may",
+				"day": 8,
 				"scriptureSnippet": "Then 8 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1574,7 +1574,7 @@
 			{
 				"image": "9 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "9 may",
+				"day": 9,
 				"scriptureSnippet": "Then 9 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1586,7 +1586,7 @@
 			{
 				"image": "10 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "10 may",
+				"day": 10,
 				"scriptureSnippet": "Then 10 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1598,7 +1598,7 @@
 			{
 				"image": "11 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "11 may",
+				"day": 11,
 				"scriptureSnippet": "Then 11 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1610,7 +1610,7 @@
 			{
 				"image": "12 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "12 may",
+				"day": 12,
 				"scriptureSnippet": "Then 12 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1622,7 +1622,7 @@
 			{
 				"image": "13 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "13 may",
+				"day": 13,
 				"scriptureSnippet": "Then 13 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1634,7 +1634,7 @@
 			{
 				"image": "14 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "14 may",
+				"day": 14,
 				"scriptureSnippet": "Then 14 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1646,7 +1646,7 @@
 			{
 				"image": "15 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "15 may",
+				"day": 15,
 				"scriptureSnippet": "Then 15 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "personal development",
@@ -1658,7 +1658,7 @@
 			{
 				"image": "16 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "16 may",
+				"day": 16,
 				"scriptureSnippet": "Then 16 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1670,7 +1670,7 @@
 			{
 				"image": "17 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "17 may",
+				"day": 17,
 				"scriptureSnippet": "Then 17 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1682,7 +1682,7 @@
 			{
 				"image": "18 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "18 may",
+				"day": 18,
 				"scriptureSnippet": "Then 18 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "family & relationships",
@@ -1694,7 +1694,7 @@
 			{
 				"image": "19 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 may",
+				"day": 19,
 				"scriptureSnippet": "Then 19 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1706,7 +1706,7 @@
 			{
 				"image": "20 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "20 may",
+				"day": 20,
 				"scriptureSnippet": "Then 20 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1718,7 +1718,7 @@
 			{
 				"image": "21 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "21 may",
+				"day": 21,
 				"scriptureSnippet": "Then 21 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "evangelism",
@@ -1730,7 +1730,7 @@
 			{
 				"image": "22 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "22 may",
+				"day": 22,
 				"scriptureSnippet": "Then 22 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1742,7 +1742,7 @@
 			{
 				"image": "23 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "23 may",
+				"day": 23,
 				"scriptureSnippet": "Then 23 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "finances",
@@ -1754,7 +1754,7 @@
 			{
 				"image": "24 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "24 may",
+				"day": 24,
 				"scriptureSnippet": "Then 24 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1766,7 +1766,7 @@
 			{
 				"image": "25 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "25 may",
+				"day": 25,
 				"scriptureSnippet": "Then 25 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1778,7 +1778,7 @@
 			{
 				"image": "26 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "26 may",
+				"day": 26,
 				"scriptureSnippet": "Then 26 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "faith & prayer",
@@ -1790,7 +1790,7 @@
 			{
 				"image": "27 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "27 may",
+				"day": 27,
 				"scriptureSnippet": "Then 27 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1802,7 +1802,7 @@
 			{
 				"image": "28 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "28 may",
+				"day": 28,
 				"scriptureSnippet": "Then 28 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "healing",
@@ -1814,7 +1814,7 @@
 			{
 				"image": "29 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "29 may",
+				"day": 29,
 				"scriptureSnippet": "Then 29 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1826,7 +1826,7 @@
 			{
 				"image": "30 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "30 may",
+				"day": 30,
 				"scriptureSnippet": "Then 30 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "life & living",
@@ -1838,7 +1838,7 @@
 			{
 				"image": "31 may",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "31 may",
+				"day": 31,
 				"scriptureSnippet": "Then 31 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
@@ -1850,12 +1850,12 @@
 		]
 	},
 	{
-		"month": "june",
+		"month": 6,
 		"devotionals": [
 			{
 				"image": "1 june",
 				"title": "FROM LO DEBAR TO JERUSALEM",
-				"date": "1 june",
+				"day": 1,
 				"scriptureSnippet": "Then 1 the king said, \\“Is there not still someone of the house of Saul, to whom I may show the kindness of God?\\” II Samuel 9:3",
 				"scriptureReference": ["II Samuel 9:1-13"],
 				"category": "spiritual growth",
