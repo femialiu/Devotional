@@ -65,7 +65,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     
     func createTabbar() -> UITabBarController {
         let tabbar = UITabBarController()
+        let tabAppearance = UITabBarAppearance() // new line to get former tabbar
+        let NCAppearance = UINavigationBarAppearance() // new line to get former tabbar
         UITabBar.appearance().tintColor = .systemRed
+        UITabBar.appearance().scrollEdgeAppearance = tabAppearance // new line to get former tabbar
+        UINavigationBar.appearance().scrollEdgeAppearance = NCAppearance // new line to get former tabbar
         tabbar.viewControllers = [createTodayNC(), createDevotionalsNC(), createbookmarksNC(), createMoreTabNC()]
         
         return tabbar
