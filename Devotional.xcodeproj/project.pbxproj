@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		05725870271484BB0016AC4C /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0572586F271484BB0016AC4C /* DataLoader.swift */; };
+		0581EA522720AAA9002A7399 /* IGButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0581EA512720AAA9002A7399 /* IGButton.swift */; };
+		0581EA562720AE06002A7399 /* IGTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0581EA552720AE06002A7399 /* IGTextField.swift */; };
 		05A876E1270B97C10000A0C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A876E0270B97C10000A0C7 /* AppDelegate.swift */; };
 		05A876E3270B97C10000A0C7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A876E2270B97C10000A0C7 /* SceneDelegate.swift */; };
 		05A876EA270B97C50000A0C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05A876E9270B97C50000A0C7 /* Assets.xcassets */; };
@@ -22,6 +24,8 @@
 
 /* Begin PBXFileReference section */
 		0572586F271484BB0016AC4C /* DataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
+		0581EA512720AAA9002A7399 /* IGButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGButton.swift; sourceTree = "<group>"; };
+		0581EA552720AE06002A7399 /* IGTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGTextField.swift; sourceTree = "<group>"; };
 		05A876DD270B97C10000A0C7 /* Devotional.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Devotional.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05A876E0270B97C10000A0C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05A876E2270B97C10000A0C7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +78,8 @@
 				05A876F8270B98A30000A0C7 /* TodayViewController.swift */,
 				05BF908F271392AB0073FA0E /* DevotionalsData.swift */,
 				0572586F271484BB0016AC4C /* DataLoader.swift */,
+				0581EA512720AAA9002A7399 /* IGButton.swift */,
+				0581EA552720AE06002A7399 /* IGTextField.swift */,
 				05A87704270B99980000A0C7 /* dataFile.json */,
 				05A876E9270B97C50000A0C7 /* Assets.xcassets */,
 				05A876EB270B97C50000A0C7 /* LaunchScreen.storyboard */,
@@ -154,12 +160,14 @@
 			files = (
 				05A876FF270B98CE0000A0C7 /* BookmarksViewController.swift in Sources */,
 				05A87702270B98E20000A0C7 /* MoreTabViewController.swift in Sources */,
+				0581EA522720AAA9002A7399 /* IGButton.swift in Sources */,
 				05BF9090271392AB0073FA0E /* DevotionalsData.swift in Sources */,
 				05A876FC270B98B90000A0C7 /* DevotionalsViewController.swift in Sources */,
 				05725870271484BB0016AC4C /* DataLoader.swift in Sources */,
 				05A876F9270B98A30000A0C7 /* TodayViewController.swift in Sources */,
 				05A876E1270B97C10000A0C7 /* AppDelegate.swift in Sources */,
 				05A876E3270B97C10000A0C7 /* SceneDelegate.swift in Sources */,
+				0581EA562720AE06002A7399 /* IGTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
