@@ -72,10 +72,10 @@
 			children = (
 				05A876E0270B97C10000A0C7 /* AppDelegate.swift */,
 				05A876E2270B97C10000A0C7 /* SceneDelegate.swift */,
-				05A87701270B98E20000A0C7 /* MoreTabViewController.swift */,
-				05A876FE270B98CE0000A0C7 /* BookmarksViewController.swift */,
-				05A876FB270B98B90000A0C7 /* DevotionalsViewController.swift */,
 				05A876F8270B98A30000A0C7 /* TodayViewController.swift */,
+				05A876FB270B98B90000A0C7 /* DevotionalsViewController.swift */,
+				05A876FE270B98CE0000A0C7 /* BookmarksViewController.swift */,
+				05A87701270B98E20000A0C7 /* MoreTabViewController.swift */,
 				05BF908F271392AB0073FA0E /* DevotionalsData.swift */,
 				0572586F271484BB0016AC4C /* DataLoader.swift */,
 				0581EA512720AAA9002A7399 /* IGButton.swift */,
