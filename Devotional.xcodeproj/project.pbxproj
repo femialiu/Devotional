@@ -20,6 +20,7 @@
 		05A87702270B98E20000A0C7 /* MoreTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A87701270B98E20000A0C7 /* MoreTabViewController.swift */; };
 		05A87705270B99980000A0C7 /* dataFile.json in Resources */ = {isa = PBXBuildFile; fileRef = 05A87704270B99980000A0C7 /* dataFile.json */; };
 		05BF9090271392AB0073FA0E /* DevotionalsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BF908F271392AB0073FA0E /* DevotionalsData.swift */; };
+		05F767B9273C6C8C00314501 /* CopyItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F767B8273C6C8C00314501 /* CopyItems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		05A87701270B98E20000A0C7 /* MoreTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTabViewController.swift; sourceTree = "<group>"; };
 		05A87704270B99980000A0C7 /* dataFile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = dataFile.json; sourceTree = "<group>"; };
 		05BF908F271392AB0073FA0E /* DevotionalsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevotionalsData.swift; sourceTree = "<group>"; };
+		05F767B8273C6C8C00314501 /* CopyItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopyItems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				05A876E0270B97C10000A0C7 /* AppDelegate.swift */,
 				05A876E2270B97C10000A0C7 /* SceneDelegate.swift */,
 				05A876F8270B98A30000A0C7 /* TodayViewController.swift */,
+				05F767B8273C6C8C00314501 /* CopyItems.swift */,
 				05A876FB270B98B90000A0C7 /* DevotionalsViewController.swift */,
 				05A876FE270B98CE0000A0C7 /* BookmarksViewController.swift */,
 				05A87701270B98E20000A0C7 /* MoreTabViewController.swift */,
@@ -165,6 +168,7 @@
 				05A876FC270B98B90000A0C7 /* DevotionalsViewController.swift in Sources */,
 				05725870271484BB0016AC4C /* DataLoader.swift in Sources */,
 				05A876F9270B98A30000A0C7 /* TodayViewController.swift in Sources */,
+				05F767B9273C6C8C00314501 /* CopyItems.swift in Sources */,
 				05A876E1270B97C10000A0C7 /* AppDelegate.swift in Sources */,
 				05A876E3270B97C10000A0C7 /* SceneDelegate.swift in Sources */,
 				0581EA562720AE06002A7399 /* IGTextField.swift in Sources */,
