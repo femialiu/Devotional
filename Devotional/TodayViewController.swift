@@ -17,7 +17,12 @@ class TodayViewController: UIViewController {
     
     let logoImage = UIImageView()
     
+//    let mainImageView = UIImageView(image: #imageLiteral)
     let mainImageView = UIImageView()
+   
+    
+    
+    
     
     
     let titleLabel: UILabel = {
@@ -84,7 +89,8 @@ class TodayViewController: UIViewController {
         navigationController?.hidesBarsOnSwipe = true
         
         configureStackView()
-        
+        mainImageView.image = UIImage(named: "5-january")
+        photoQuote.image = UIImage(named: "5-january")
 //        let data = DataLoader().devotionalData
         
 //        print(data)
@@ -130,13 +136,15 @@ class TodayViewController: UIViewController {
         contentView.addSubview(stackView)
         stackView.axis = .vertical
         stackView.distribution = .fill
-        stackView.spacing = 10
-
+        stackView.spacing = 25
+        
+        stackView.addArrangedSubview(mainImageView)
         stackView.addArrangedSubview(titleLabel)
         stackView.addArrangedSubview(dateLabel)
         stackView.addArrangedSubview(scriptureSnippet)
         stackView.addArrangedSubview(scriptureReferenceLabel)
         stackView.addArrangedSubview(bodyLabel)
+        stackView.addArrangedSubview(photoQuote)
         setStackViewConstraints()
     }
     
@@ -162,17 +170,7 @@ class TodayViewController: UIViewController {
      
 }
 
-/*
- let titleLabel: UILabel = {
-     let label = UILabel()
-     label.text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-     label.numberOfLines = 0
-     label.sizeToFit()
-     label.textColor = UIColor.blue
-     label.translatesAutoresizingMaskIntoConstraints = false
-     return label
- }()
- */
+
 
 
 
