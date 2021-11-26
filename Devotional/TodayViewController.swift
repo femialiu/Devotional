@@ -39,6 +39,8 @@ class TodayViewController: UIViewController {
         let today = Date()
         let formatter = DateFormatter()
         formatter.dateFormat = "EEEE, MMMM d"
+//        formatter.dateStyle = .long
+//        formatter.locale = Locale.current
         label.text = "\(formatter.string(from: today))"
         label.translatesAutoresizingMaskIntoConstraints = false
         
@@ -180,7 +182,7 @@ class TodayViewController: UIViewController {
 
 /*
  display the current date in the required format - 8th January 2021
- display the date in the appropriate format for the local
+ display the date in the appropriate format for the locale
  
  display the devotional for each day - update all the labels and images and dates automatically each day
  write function to display the devotional for each day and update daily
