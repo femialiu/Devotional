@@ -36,12 +36,11 @@ class TodayViewController: UIViewController {
     
     let dateLabel: UILabel = {
         let label = UILabel()
-        label.translatesAutoresizingMaskIntoConstraints = false
-//        label.text = "21 October, 2021"
         let today = Date()
         let formatter = DateFormatter()
         formatter.dateFormat = "EEEE, MMMM d"
         label.text = "\(formatter.string(from: today))"
+        label.translatesAutoresizingMaskIntoConstraints = false
         
         return label
     }()// 2
