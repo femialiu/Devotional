@@ -9,6 +9,9 @@ import Foundation
 
 public class DataLoader {
     
+    let now = Date()
+    let components = DateComponents()
+    
     @Published var devotionalData = [Devotional]()
     
     init() {

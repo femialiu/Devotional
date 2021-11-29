@@ -29,6 +29,7 @@ class TodayViewController: UIViewController {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
         label.text = "FROM LO DEBAR TO JERUSALEM"
+//        label.text = "\(Devotional.init(month: 11, devotionals: ["title"]))"
         label.font = .boldSystemFont(ofSize: 20)
         
         return label
